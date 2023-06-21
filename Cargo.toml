@@ -1,10 +1,10 @@
 [package]
 name = "jy"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Jean Sidharta <jeansidharta@gmail.com>"]
 license = "MIT"
-description = "A minimal json to yaml converter"
+description = "A minimal json to yaml cli converter"
 readme = "README.md"
 homepage = "https://github.com/Jeansidharta/jy"
 repository = "https://github.com/Jeansidharta/jy"
