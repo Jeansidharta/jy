@@ -1,0 +1,19 @@
+[package]
+name = "jy"
+version = "1.0.0"
+edition = "2021"
+authors = ["Jean Sidharta <jeansidharta@gmail.com>"]
+license = "MIT"
+description = "A minimal json to yaml converter"
+readme = "README.md"
+homepage = "https://github.com/Jeansidharta/jy"
+repository = "https://github.com/Jeansidharta/jy"
+keywords = ["cli", "json", "yaml", "converter"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "1.0.164"
+serde_json = "1.0.97"
+serde_yaml = "0.9.21"
