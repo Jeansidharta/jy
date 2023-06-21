@@ -14,6 +14,6 @@ You must have the rust toolchain installed in your system. You can install it [h
 
 This program receives no arguments. It'll simply read from the stdin and write to stdout. Example:
 
-`echo "{potato: \"tomato\"}" | jy`
+`echo "{\"potato\": \"tomato\"}" | jy`
 
 will output `potato: tomato`
